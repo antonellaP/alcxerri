@@ -73,7 +73,7 @@ svg:not(:root) {
 }
 
 .section-with-bg {
-  background: #016ea5 url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/desk-code-small-colored.jpg) center center no-repeat;
+  background: #016ea5 url(../images/desk-code-small-colored.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -172,7 +172,7 @@ svg:not(:root) {
 .instructor-container {
   padding-top: 2rem;
   padding-bottom: 1.5rem;
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/guy-pc-small-transparent.jpg);
+  background-image: url(../images/guy-pc-small-transparent.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -202,7 +202,7 @@ svg:not(:root) {
 .demos-container {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/code-small-transparent.jpg);
+  background-image: url(../images/code-small-transparent.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -240,7 +240,7 @@ svg:not(:root) {
 .testimonials-container {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/code-small-transparent.jpg);
+  background-image: url(../images/code-small-transparent.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -254,7 +254,7 @@ svg:not(:root) {
 
 .footer {
   padding: 2rem;
-  background: #1a161d url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/code-small-transparent-footer.jpg) center center no-repeat;
+  background: #1a161d url(../images/code-small-transparent-footer.jpg) center center no-repeat;
   background-size: cover;
   color: #e2cfdb;
 }
