@@ -26,7 +26,7 @@ a:hover, a:focus {
 
 html {
   font-size: 1.125rem;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
   color: #1a161d;
 }
 
@@ -46,7 +46,7 @@ h5,
 .h3,
 .h4,
 .h5 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 img {
@@ -133,7 +133,7 @@ svg:not(:root) {
 
 .hero-header {
   background-color: #fff;
-  padding: 1rem .3rem 2rem;
+  padding: 1rem 0.3rem 2rem;
 }
 
 .hero-container {
@@ -166,7 +166,7 @@ svg:not(:root) {
 }
 
 .instructor {
-  padding: 4rem .3rem;
+  padding: 4rem 0.3rem;
 }
 
 .instructor-container {
@@ -194,13 +194,18 @@ svg:not(:root) {
   }
 }
 
-.demos,
-.demos-container {
+.demos {
   background-color: #e2cfdb;
+  padding: 4rem 0.3rem;
 }
 
 .demos-container {
-  padding: 4rem .3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/code-small-transparent.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 @media (min-width: 320px) and (max-width: 992px) {
@@ -216,7 +221,7 @@ svg:not(:root) {
 }
 
 .course-container {
-  padding: 4rem .3rem;
+  padding: 4rem 0.3rem;
 }
 
 .course-img {
@@ -229,7 +234,7 @@ svg:not(:root) {
 
 .testimonials {
   background-color: #e2cfdb;
-  padding: 4rem .3rem;
+  padding: 4rem 0.3rem;
 }
 
 .testimonials-container {
